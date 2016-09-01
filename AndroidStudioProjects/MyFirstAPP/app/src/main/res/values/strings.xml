@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstAPP</string>
+
+    <string name="greeting_message">Hello there welcome to Christina\'s APP</string>
+
+    <string name="enter_name">Enter your name...</string>
+
+    <string name="main_button_text">Click Me</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string name="button_name">ADD NEW TASK</string>
+
+    <string name="greetings_name">WELCOME!</string>
+
+    <string name="title_name">TITLE</string>
+
+    <string name="submit_name">SUBMIT</string>
+
+    <string name="enter_urgency_hint">URGENCY</string>
+
+    <string name="enter_description">DESCRIPTION</string>
+
+    <string name="task_list_heading">Task List</string>
+
+    <string name="view_all_task">View Me Bitch</string>
+
+
+
+    <array name="urgency_field_contents">
+        <item>Very Urgent</item>
+        <item>Urgent</item>
+        <item>Medium Urgent</item>
+    </array>
+
+
+
+</resources>
